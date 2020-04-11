@@ -1,0 +1,1 @@
+The challenge title Breakast Cereal alludes to the flag being Reese's Puffs. The category "atbash" and the scrambled text in the description should lead users to decode the text with the atbash cipher. The decoded text is theflagforthischallengeisreesespuffs, leading to the two flags given.
